@@ -1,6 +1,6 @@
 # Mailson Rodrigues
 
-**Biomedical scientist turned clinical-genomics software developer** — 15+ years in clinical laboratory diagnostics, postgraduate training in Medical Genetics & Genomics, now building bioinformatics and health software.
+**Biomedical scientist turned clinical-genomics software developer** — 18+ years in clinical laboratory diagnostics, postgraduate training in Medical Genetics & Genomics, now building bioinformatics and health software.
 📍 Goiânia, Brazil · 🔗 [LinkedIn](https://linkedin.com/in/mailson-rodrigues) · 🧬 [ORCID 0000-0002-9281-5818](https://orcid.org/0000-0002-9281-5818)
 
 ---
@@ -33,7 +33,7 @@ Research Use Only; no real patient data. Production code is private; architectur
 ## Other projects
 
 - **[clinical-genetics-emr](https://github.com/mailson-rodrigues/clinical-genetics-emr)** — Electronic medical record for genetic counseling with pedigree construction from structured anamnesis (FastAPI, SQLAlchemy/Alembic, 24 entities, 98 unit/integration + 15 Playwright e2e tests, audit logging, role-based access).
-- **[bioinfo-clinical-training](https://github.com/mailson-rodrigues/bioinfo-clinical-training)** — Documented, hands-on clinical NGS learning path on public reference data (NA12878 / GIAB, GRCh38): QC with FastQC / fastp / MultiQC, alignment with BWA-MEM / SAMtools, with the reasoning and trade-offs behind each decision.
+- **[bioinfo-clinical-training](https://github.com/mailson-rodrigues/bioinfo-clinical-training)** — Documented, hands-on clinical NGS learning path on public reference data (NA12878 / GIAB, GRCh38): QC with FastQC / fastp / MultiQC, alignment with BWA-MEM / SAMtools (in progress), with the reasoning and trade-offs behind each decision.
 
 ## Tech
 
@@ -46,9 +46,9 @@ Research Use Only; no real patient data. Production code is private; architectur
 
 ## Background
 
-- **15+ years** in clinical laboratory diagnostics
+- **18+ years** in clinical laboratory diagnostics
 - **Postgraduate** — Medical Genetics & Genomics; Biosafety
-- **MBA** — Data Analytics, BI and Big Data
+- **MBA** — Data Analytics, BI and Big Data (in progress, expected May 2027)
 - **Studying** — Technology program in Artificial Intelligence and Machine Learning
 
 ## Contact
