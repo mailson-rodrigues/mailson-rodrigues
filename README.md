@@ -34,6 +34,10 @@ Research Use Only; no real patient data. Production code is private; architectur
 
 - **[clinical-genetics-emr](https://github.com/mailson-rodrigues/clinical-genetics-emr)** — Electronic medical record for genetic counseling with pedigree construction from structured anamnesis (FastAPI, SQLAlchemy/Alembic, 24 entities, 98 unit/integration + 15 Playwright e2e tests, audit logging, role-based access).
 - **[bioinfo-clinical-training](https://github.com/mailson-rodrigues/bioinfo-clinical-training)** — Documented, hands-on clinical NGS learning path on public reference data (NA12878 / GIAB, GRCh38): QC with FastQC / fastp / MultiQC, alignment with BWA-MEM / SAMtools (in progress), with the reasoning and trade-offs behind each decision.
+- **[b2b-crm-showcase](https://github.com/mailson-rodrigues/b2b-crm-showcase)** — B2B CRM with WhatsApp Business (Cloud API) integration, sales pipeline, contracts and LGPD compliance (FastAPI, PostgreSQL, Redis, plain-JS SPA). In development; demo data only.
+- **[ai-creative-studio-showcase](https://github.com/mailson-rodrigues/ai-creative-studio-showcase)** — Architecture, integrity guarantees and test evidence for an AI-assisted platform for illustrated books and games (product code is private).
+
+**Also building:** GenCode Hub (private) — a modular web platform and ecosystem of AI agents that I architect and develop; code is private.
 
 ## Tech
 
